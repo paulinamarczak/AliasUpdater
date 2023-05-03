@@ -2,6 +2,8 @@
 # Created by: Lisa Berry, Esri
 # Created: December 2018
 #
+
+fsdf
 # This script uses a lookup table to update alias names on a hosted feature service.
 # The script updates the alias names in two places:
 #   - The REST endpoint
